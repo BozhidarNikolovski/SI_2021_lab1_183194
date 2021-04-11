@@ -8,3 +8,4 @@
 8
 9
 10
+zbor1 zbor2 zbor3
